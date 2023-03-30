@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: welcome to the simplex demo
-email: email@example.com
+title: welcome to my blog
+email: dainjeong@sookmyung.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, this is an demo of the jekyll theme simplex.
   Here you can check out all the features of the theme.
@@ -53,7 +53,7 @@ plugins:
 #   - vendor/ruby/
 
 logo_img: /assets/img/icons/simplex.svg #Absolute path to the logo. If not specified, the title will be displayed instead.
-copyright: © Golasowski 2021, icons by Flaticon.com #Your copyright.
+copyright: © JKLDain 2023, icons by Flaticon.com #Your copyright.
 
 collections:
     category:

@@ -7,12 +7,12 @@
         url: category/cpp.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
         subnav: #Another subnav
-            - title: Python
-              url: category/libs.html
-              hue: "var(--c-themeHueBlue)" 
-- title: Design
+      - title: Python
+        url: category/libs.html
+        hue: "var(--c-themeHueBlue)" 
+- title: Project
   url: category/design.html
-  icon: assets/img/icons/paint_brush.svg
+  icon: assets/img/icons/project_management.svg
   hue: "var(--c-themeHueOrange)"
 - title: About
   url: about/index.html

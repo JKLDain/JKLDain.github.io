@@ -12,6 +12,9 @@
     padding-top: 2rem;
 
     .logo{
+        position: relative;
+        top:50px;
+       
 
         &__link{
 
@@ -73,6 +76,8 @@
     }
 
     .menu{
+        position: relative;
+        top:100px;
 
         max-width: 100vw;
         width: 100%;
@@ -92,7 +97,8 @@
 
             .item{
 
-                position: relative; 
+                position: relative;
+                
 
                 @include flexbox;
                 cursor: pointer;
@@ -142,6 +148,8 @@
 
                 >.list{
                     
+                    position: relative;
+                    top: 50px;
                     max-height: 0;
                     width: 250px;
                     overflow: hidden;

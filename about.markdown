@@ -43,7 +43,7 @@ You can use **all** the features of the post, such as *formatting*, *lightbox* a
 </div>
 <div class='sx-button'>
   <a href='https://github.com/andreondra/jekyll-theme-simplex' class='sx-button__content blue'>
-    <img src='/assets/img/icons/simplex.svg'/>Github
+    <img src='/assets/img/icons/logo.svg'/>Github
   </a>
 </div>
 
