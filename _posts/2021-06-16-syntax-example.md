@@ -13,6 +13,8 @@ fb_app_id: example
 
 In this post we will have a look at some syntax highlighting abilities.
 
+자 이게 반영되는지 한번 보자
+
 Here you can see a very simple C++ code snippet:
 {% highlight cpp %}
 template <class type>
